@@ -6,7 +6,7 @@ The repositories found in this organization contains the Infrastructure as Code 
 The primary goal of this project is to streamline and automate critical aspects of data center management, including:
 - **Maintenance Operations:** Automating routine maintenance tasks to ensure high availability and reliability of the infrastructure.
 - **Virtual Machine Deployment:** Simplifying and expediting the process of virtual machine deployment to enable rapid scaling and provisioning.
-- **Virtual Machine Scheduling:** Implementing intelligent scheduling algorithms to optimize resource utilization and performance across virtual machines.
+- **Virtual Machine Scheduling:** testing intelligent scheduling algorithms to optimize resource utilization and performance across virtual machines.
 
 ### Infrastructure
 The automation orchestrates tasks across two of the six clusters managed by the Department of Computer Science's Curriculum Infrastructure project. These two clusters comprise a total of 20 HP ProLiant BL460c Gen9 host systems.
